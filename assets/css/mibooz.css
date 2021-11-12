@@ -45,7 +45,7 @@
 
 body {
     font-family: var(--mibooz-font);
-    color: var(--mibooz-gray);
+    color: #567D00;
     font-size: 18px;
     line-height: 36px;
     font-weight: 400;
@@ -301,7 +301,7 @@ ul {
     display: inline-block;
     width: 45px;
     height: 45px;
-    background: var(--mibooz-primary);
+    background-color: #567D00;
     position: fixed;
     bottom: 40px;
     right: 40px;
@@ -2018,7 +2018,7 @@ ul {
 .services-one {
     position: relative;
     display: block;
-    background-color: var(--mibooz-primary);
+    background-color: #567D00;
     z-index: 1;
 }
 
@@ -3387,7 +3387,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: var(--mibooz-primary);
+    background-color: #567D00;
     padding: 92px 100px;
 }
 
